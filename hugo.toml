@@ -1,10 +1,10 @@
-baseURL = 'https://miscmana.com'
+baseURL = 'https://miscmgt.com'
 languageCode = 'en-us'
-title = 'miscmana coming soon'
+title = 'miscmgt coming soon'
 theme = 'coming-soon'
 
 [params]
-    title = "Misc Mana Coming Soon"
+    title = "Misc MGT Coming Soon"
     description = "Contact US"
     favicon = ""
     message = "COMING SOON!"
