@@ -5,7 +5,7 @@ theme = 'coming-soon'
 
 [params]
     title = "Misc MGT Coming Soon"
-    description = "[Contact US](https://contact@miscmgt.com/)"
+    description = "[Contact US](contact@miscmgt.com)"
     favicon = ""
     message = "COMING SOON!"
     release = "January 1, 2025"
