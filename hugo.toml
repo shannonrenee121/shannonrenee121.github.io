@@ -5,14 +5,14 @@ theme = 'coming-soon'
 
 [params]
     title = "Misc MGT Coming Soon"
-    description = "Contact US"
+    description = "[Contact US](https://contact@miscmgt.com/)"
     favicon = ""
     message = "COMING SOON!"
     release = "January 1, 2025"
     background = ""
 
 socialIcons = [
-    {name = "email", url = "example@example.com"},
+    {name = "email", url = "contact@miscmgt.com"},
     {name = "twitter", url = "https://twitter.com/"},
     {name = "facebook", url = "https://facebook.com/"},
     {name = "github", url = "https://github.com/"},
